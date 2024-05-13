@@ -1,10 +1,3 @@
-# Data Portfolio
-
-
-This is my portfolio
-
-
-:)
 
 # Data Portfolio: Excel to Power BI 
 
